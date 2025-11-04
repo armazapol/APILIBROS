@@ -28,6 +28,9 @@ Modificar solo "tu_usuario" y "tu_contraseña" con datos de la base de datos.
   }
 ```
 
+## Aplicar migraciones a la base de datos
+``` dotnet ef database update ```
+
 ## Ejecutar la aplicación
 ``` dotnet run ```
 
