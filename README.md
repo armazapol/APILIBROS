@@ -14,11 +14,14 @@ API minimal para gestionar libros (proyecto .NET 6 / C# 10).
 ## Restaurar dependencias
 
 Navegar a la carpeta del proyecto y ejecutar:
+
 ``` dotnet restore ```
 
 ## Modificar cadena de conexión
 
 Editar el archivo `appsettings.json` para configurar la cadena de conexión a la base de datos Postgres:
+
+Modificar solo "tu_usuario" y "tu_contraseña" con datos de la base de datos.
 ``` 
 "ConnectionStrings": {
 	"PostgreSqlConnection": "Server=127.0.0.1;Port=5432;Database=ExamenTadconDB;User Id=tu_usuario;Password=tu_contraseña"
