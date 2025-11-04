@@ -32,3 +32,7 @@ Modificar solo "tu_usuario" y "tu_contraseña" con datos de la base de datos.
 ``` dotnet run ```
 
 La API estará disponible en `https://localhost:7147`.
+
+## Swagger del proyecto
+
+`https://localhost:7147/swagger/index.html`
