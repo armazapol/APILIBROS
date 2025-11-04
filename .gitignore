@@ -1,0 +1,35 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+
+# Build outputs
+bin/
+obj/
+publish/
+artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# IDEs
+.idea/
+*.sln.iml
+
+# Secrets / local config
+secrets.json
+appsettings.*.Local.json
+
+# Optional cleanup
+*.log
+*.db
