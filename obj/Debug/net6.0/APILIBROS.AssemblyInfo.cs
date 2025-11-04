@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APILIBROS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+539660a48deda76a2c1a26f095ef73ea28b582f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("APILIBROS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APILIBROS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
